@@ -39,7 +39,7 @@ cd mindguard-ai
 1. Run the Streamlit app:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 2. Navigate through the sidebar menu:
 - Analyze Text – Enter text manually to get predictions and insights.
